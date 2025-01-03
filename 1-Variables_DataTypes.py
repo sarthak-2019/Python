@@ -25,3 +25,15 @@ print("Type of b",type(b))
 print("Type of c",type(c))
 print("Type of d",type(d))
 
+
+a=123
+b=123
+c="sarthak"
+
+# Adds two Var
+print(a+b)
+
+# Gives error because we can't add two variables together
+# that has different datatype
+
+
